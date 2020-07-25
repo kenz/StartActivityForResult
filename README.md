@@ -1,0 +1,2 @@
+# StartActivityForResult
+JetPack StartActivityForResultのサンプル
